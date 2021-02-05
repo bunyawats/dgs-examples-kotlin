@@ -36,3 +36,6 @@ out/
 ### VS Code ###
 .vscode/
 uploaded-images
+/gradle/
+gradlew.bat
+gradlew
